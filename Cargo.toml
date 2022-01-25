@@ -1,7 +1,9 @@
 [package]
 name = "rc5_test"
 version = "0.1.0"
-authors = ["Ben Marsh <ben.marsh@mintlayer.org>"]
-edition = "2018"
+authors = ["Fritz Mayr <f.mayr@hotmail.com>"]
+edition = "2021"
 
 [dependencies]
+rayon = "1.5.1"
+clap = "3.0.5"
